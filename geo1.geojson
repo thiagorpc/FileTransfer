@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8065919,
+                    -13.4744271
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "AI-20",
+                "status": false,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "SAT",
+                    "GSM 3G",
+                    "WiFi"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": true,
+                "km": "0",
+                "signal": "6dB"
+            }
+        },
+        {
+            "id": "2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8083545,
+                    -13.5002833
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GG-15",
+                "status": true,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "SAT",
+                    "GSM 3G",
+                    "WiFi",
+                    "LAN"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": true,
+                "km": "32",
+                "signal": "6dB"
+            }
+        },
+        {
+            "id": "3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8063919,
+                    -13.4844271
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "RG-42",
+                "status": true,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "SAT",
+                    "GSM 3G"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": true,
+                "km": "12",
+                "signal": "6dB"
+            }
+        },
+        {
+            "id": "4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8060754,
+                    -13.4898956
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "AP-15",
+                "status": true,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "SAT"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": false,
+                "km": "0",
+                "signal": "6dB"
+            }
+        },
+        {
+            "id": "5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8033717,
+                    -13.4877264
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "RR-12",
+                "status": true,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "GSM 3G"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": true,
+                "km": "67",
+                "signal": "6dB"
+            }
+        },
+        {
+            "id": "6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.8013392,
+                    -13.4832392
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "RG-42",
+                "status": true,
+                "updated": "19/01/2021, 13:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "GSM 3G"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": false,
+                "km": "0",
+                "signal": "0" //0dB
+            }
+        },
+        {
+            "id": "7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.7988452,
+                    -13.4833755
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GG-41",
+                "status": true,
+                "updated": "20/01/2021, 22:49",
+                "serial": "6e178e1ca92d",
+                "modems": [
+                    "USBPEN",
+                    "USBPEN",
+                    "Bgan"
+                ],
+                "connect": [
+                    "SAT"
+                ],
+                "firmware": "4.12 Build 9 - Elektro",
+                "installedFW": "4.12 9",
+                "active": true,
+                "km": "0",
+                "signal": "6dB"
+            }
+        }
+    ]
+}
